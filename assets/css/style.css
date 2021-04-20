@@ -179,3 +179,39 @@ h2 {
   position: relative;
   top: 10%;
 }
+
+@media only screen and (max-width: 1300px) {
+  .app_desc1 {
+    font-size: 1rem;
+  }
+  .app_desc {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 975px) {
+  .app_desc1 {
+    font-size: 0.75rem;
+  }
+  .app_desc {
+    font-size: 0.75rem;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .app_desc1 {
+    font-size: 0.1rem;
+    width: 35%;
+  }
+  .app_desc {
+    font-size: 0.1rem;
+    width: 35%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .app_desc {
+    font-size: 0.1rem;
+    width: 70%;
+  }
+}
