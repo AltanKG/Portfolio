@@ -14,7 +14,7 @@ body {
 /* Declares header design  */
 .header {
   padding: 1.5%;
-  background-color: #2f4f4f;
+  background-image: linear-gradient(black, #2f4f4f);
   color: white;
 }
 
@@ -128,8 +128,8 @@ h2 {
   height: 500px;
   border: solid black 1px;
   margin: 5px;
-  background-image: url("../images/app1.jpg");
-  background-size: contain;
+  background-image: url("../images/Weather_Dashboard-1.png");
+  background-size: cover;
 }
 
 .application2 {
@@ -137,8 +137,8 @@ h2 {
   height: 150px;
   border: solid black 1px;
   margin: 5px;
-  background-image: url("../images/app2.jpg");
-  background-size: contain;
+  background-image: url("../images/Work_Day_Scheduler-1.png");
+  background-size: cover;
 }
 
 .application3 {
@@ -146,8 +146,8 @@ h2 {
   height: 150px;
   border: solid black 1px;
   margin: 5px;
-  background-image: url("../images/app3.jpg");
-  background-size: contain;
+  background-image: url("../images/Code_Quiz-1.png");
+  background-size: cover;
 }
 
 /* Gives a highlight to the section when hovered over  */
