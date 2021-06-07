@@ -128,7 +128,7 @@ h2 {
   height: 500px;
   border: solid black 1px;
   margin: 5px;
-  background-image: url("../images/Weather_Dashboard-1.png");
+  background-image: url("../images/Mod-ify-1.png");
   background-size: cover;
 }
 
@@ -137,7 +137,7 @@ h2 {
   height: 150px;
   border: solid black 1px;
   margin: 5px;
-  background-image: url("../images/Work_Day_Scheduler-1.png");
+  background-image: url("../images/Weather_Dashboard-1.png");
   background-size: cover;
 }
 
@@ -146,7 +146,7 @@ h2 {
   height: 150px;
   border: solid black 1px;
   margin: 5px;
-  background-image: url("../images/Code_Quiz-1.png");
+  background-image: url("../images/Work_Day_Scheduler-1.png");
   background-size: cover;
 }
 
@@ -193,6 +193,15 @@ h2 {
 .app_desc p {
   position: relative;
   top: 10%;
+}
+
+.personalLinks {
+  color: black;
+}
+
+.personalLinks:hover {
+  color: purple;
+  font-size: 1.25rem;
 }
 
 /* Adds responsiveness for changing screen size  */
