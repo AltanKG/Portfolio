@@ -23,6 +23,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Deployed Site
 
 Here is an image of the website:
-![An image of my portfolio page](assets/images/Portfolio-2.png)
+![An image of my portfolio page](assets/images/Portfolio-3.png)
 
 Link to deployed site: https://altankg.github.io/Portfolio/
